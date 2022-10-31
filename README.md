@@ -9,5 +9,6 @@
 
 ### 本地数据库
 
+本地MySQL8
 账号：mohuani
 密码：mohuani123
