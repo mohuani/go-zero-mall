@@ -1,4 +1,4 @@
-module order
+module rpc
 
 go 1.17
 
